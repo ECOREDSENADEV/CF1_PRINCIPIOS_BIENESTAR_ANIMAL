@@ -54,11 +54,15 @@ figcaption
   &-1
     background-color: #D3F8F6
   &-2
-    background-color: #FFE69B
+    background-color: #E9E6EF
   &-3
-    background-color: #D5D1E2
+    color: #251049 !important
   &-4
     background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(255, 250, 228, 1) 40%, rgba(232, 251, 250, 1) 60%, rgba(255, 255, 255, 1) 100%)
+  &-5
+    background-color: #E8FBFA
+  &-6
+    background-color: #FEF09B
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -96,3 +100,50 @@ figcaption
   &-slider
     background-image: url("../assets/curso/bg-slider.png") !important
     background-position: bottom
+
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #FAEDA5
+  border: #FAEDA5
+.slyder-a__bullets__item--active
+  background-color: #FFD907
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #FF8900
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #FFD907
+  border-radius: 30px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: 0
+  width: 60px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 50px
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #FF8900 !important
+  color: $color-sistema-texto 
+.acordion__activo
+  background-color: #A8F1ED!important
+.acordion_titulo
+  color: $color-sistema-texto  !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+
+.linea-tiempo-e__item__header:before
+  top: 10px
