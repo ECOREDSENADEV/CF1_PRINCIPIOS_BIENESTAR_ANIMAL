@@ -21,19 +21,19 @@
 
         .row.justify-content-center
           .col-lg-2.mb-3.mb-lg-0
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Legislación de protección y bienestar animal.
           .col-lg-2.mb-3.mb-lg-0
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Programas de tenencia responsable.
           .col-lg-2.mb-3.mb-lg-0
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Evaluaciones de bienestar y listas de chequeo.
           .col-lg-2.mb-3.mb-lg-0
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Protocolos de manejo ético y humanitario.
           .col-lg-2.mb-3.mb-lg-0
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Educación y sensibilización ciudadana.
 
         p.mb-5 Su cumplimiento es una obligación ética, social y legal, y su vulneración puede ser considerada como negligencia o maltrato.

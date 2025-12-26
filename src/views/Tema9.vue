@@ -17,19 +17,19 @@
     
     .row.justify-content-center
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center
+        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de hambre y sed
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center
+        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de incomodidad
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center
+        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de dolor, lesiones y enfermedades
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center
+        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de miedo y estrés
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center
+        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libertad para expresar su comportamiento natural
 
     .bg-full-width.bg-color-4

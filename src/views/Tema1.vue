@@ -586,19 +586,19 @@
 
         .row.justify-content-center
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Agresividad
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Ansiedad
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Autolesiones
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Conductas destructivas
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center
+            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Enfermedades relacionadas con el estrés
 
         p.mb-5 Por el contrario, un manejo adecuado, basado en el conocimiento del comportamiento natural de cada especie, favorece:
