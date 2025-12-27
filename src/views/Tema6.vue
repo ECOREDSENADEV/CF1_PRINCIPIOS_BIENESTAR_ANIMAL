@@ -40,7 +40,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/3.png', alt='')
             .col-lg
@@ -258,7 +258,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/4.png', alt='')
             .col-lg
@@ -469,7 +469,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/7.png', alt='')
             .col-lg
@@ -502,15 +502,15 @@
 
     p.mb-5 Los tratamientos deben cumplir con los siguientes criterios:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Ser prescritos por un médico veterinario
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Estar ajustados a la especie, edad, peso y condición clínica
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Administrarse de forma correcta en dosis, vía y duración
 
     p.mb-5 La automedicación está estrictamente prohibida, especialmente en animales no convencionales, debido al alto riesgo de toxicidad por su metabolismo particular.
@@ -526,7 +526,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/8.png', alt='')
             .col-lg
@@ -564,7 +564,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/9.png', alt='')
             .col-lg
@@ -577,7 +577,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/10.png', alt='')
             .col-lg
@@ -658,7 +658,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/17.png', alt='')
             .col-lg
@@ -702,7 +702,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema6/18.png', alt='')
             .col-lg
@@ -735,18 +735,18 @@
     
     p.mb-5 Otros medicamentos prohibidos en felinos son:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Diclofenaco
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Ibuprofeno
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Ketoprofeno
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Aspirina sin fórmula veterinaria
 
     p.mb-5  El acetaminofén nunca debe ser administrado a gatos, bajo ninguna circunstancia. El manejo del dolor en felinos debe ser realizado exclusivamente con medicamentos veterinarios específicos y ajustados a su metabolismo.
@@ -759,21 +759,21 @@
 
     p.mb-5 Los conejos poseen un sistema digestivo altamente sensible, basado en la fermentación cecal. El uso de ciertos antibióticos orales puede alterar gravemente su microbiota intestinal y provocar disbiosis severa o enterotoxemia.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Penicilinas orales
           p.mb-0 Disbiosis, diarrea aguda, enterotoxemia, muerte
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Amoxicilina
           p.mb-0 Alteración de microbiota, riesgo digestivo elevado
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Clindamicina
           p.mb-0 Tóxica por vía oral
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Lincomicina
           p.mb-0 Altamente disruptiva a nivel intestinal
 
@@ -811,7 +811,7 @@
               .p-3.text-center
                 h5.mb-0 Ivermectina sin dosificación precisa
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
-              .p-3.text-center
+              .px-3.py-4.p-lg-3.text-center
                 p.mb-0 Riesgo de neurotoxicidad severa
       .col-md-6.col-lg-2.mb-3.mb-lg-0
         .tarjeta-avatar

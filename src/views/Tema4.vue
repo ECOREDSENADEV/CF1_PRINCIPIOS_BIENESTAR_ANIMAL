@@ -42,7 +42,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema4/2.png', alt='')
                 .col-lg
@@ -77,7 +77,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/3.png', alt='')
             .col-lg
@@ -148,7 +148,7 @@
         
         p.mb-5 El tutor es el responsable directo de garantizar esta libertad, lo que implica ajustar la alimentación y la hidratación del animal según los siguientes factores:
 
-        SlyderF(columnas="col-12 col-md-6 col-lg-4").mb-5
+        SlyderF(columnas="col-12 col-lg-4").mb-5
           .tarjeta.bg-color-8.p-4
             img.mb-5(src='@/assets/curso/tema4/7.png' alt='AvatarTop')
             h2.text-center Especie
@@ -183,7 +183,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/12.png', alt='')
             .col-lg
@@ -289,7 +289,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/20.png', alt='')
             .col-lg
@@ -365,19 +365,19 @@
 
     .row.justify-content-center
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 La respiración branquial.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 La regulación osmótica.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 La respuesta inmunológica.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 El comportamiento natural.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 La supervivencia.
     
     p.mb-5 El manejo inadecuado del agua constituye maltrato por negligencia, incluso si se proporciona alimentación adecuada.
@@ -503,7 +503,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/21.png', alt='')
             .col-lg
@@ -576,7 +576,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/22.png', alt='')
             .col-lg
@@ -626,7 +626,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/23.png', alt='')
             .col-lg
@@ -816,21 +816,21 @@
 
     p.mb-5 Leguminosas específicas: uso y beneficios
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-3.mb-3.mb-lg-0.d-flex
-        .bg-color-7.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Morera (Morus alba)
           p.mb-0 Conejos 5–8 %, Cobayos hasta 10 %
       .col-lg-3.mb-3.mb-lg-0.d-flex
-        .bg-color-7.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Alfalfa (Medicago sativa)
           p.mb-0 Útil en gestantes/lactantes, evitar exceso en adultos
       .col-lg-3.mb-3.mb-lg-0.d-flex
-        .bg-color-7.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Trébol (Trifolium spp.)
           p.mb-0 Introducción gradual, hasta 5–8 %
       .col-lg-3.mb-3.mb-lg-0.d-flex
-        .bg-color-7.mb-5.p-4.text-center.align-items-center.justify-content-center.w-100
+        .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Vainas verdes (arveja/fríjol tierno)
           p.mb-0 Vainas verdes (arveja/fríjol tierno)
     

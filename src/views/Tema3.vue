@@ -19,21 +19,21 @@
             p.mb-0 Estas libertades no se limitan a evitar el sufrimiento, sino que promueven un bienestar positivo, en el cual el animal no solo sobrevive, sino que puede desarrollarse saludablemente, expresar su comportamiento natural y mantener un equilibrio físico y emocional adecuado.
         p.mb-5 En el contexto de las mascotas, tanto convencionales como no convencionales, la aplicación de las Cinco Libertades exige un manejo diferenciado por especie, evitando enfoques generalizados que ignoren las particularidades biológicas, fisiológicas y etológicas de cada animal. Cada libertad se relaciona con acciones cotidianas del tutor: la alimentación, la hidratación, el alojamiento, el manejo, la atención veterinaria y la interacción humano–animal. Las cinco libertades son utilizadas como base para:
 
-        .row.justify-content-center
+        .row.justify-content-center.mb-5
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Legislación de protección y bienestar animal.
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Programas de tenencia responsable.
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Evaluaciones de bienestar y listas de chequeo.
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Protocolos de manejo ético y humanitario.
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Educación y sensibilización ciudadana.
 
         p.mb-5 Su cumplimiento es una obligación ética, social y legal, y su vulneración puede ser considerada como negligencia o maltrato.
@@ -47,7 +47,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/2.png', alt='')
             .col-lg
@@ -110,7 +110,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema3/8.png', alt='')
                 .col-lg

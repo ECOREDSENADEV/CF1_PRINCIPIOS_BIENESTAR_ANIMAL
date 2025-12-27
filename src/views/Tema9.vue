@@ -17,19 +17,19 @@
     
     .row.justify-content-center
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-6.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de hambre y sed
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-6.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de incomodidad
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-6.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de dolor, lesiones y enfermedades
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-6.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libre de miedo y estrés
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-6.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-6.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Libertad para expresar su comportamiento natural
 
     .bg-full-width.bg-color-4
@@ -65,7 +65,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema9/2.png', alt='')
             .col-lg

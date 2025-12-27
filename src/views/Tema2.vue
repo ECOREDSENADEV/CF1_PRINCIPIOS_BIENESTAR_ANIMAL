@@ -50,7 +50,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema2/3.png', alt='')
                 .col-lg
@@ -98,7 +98,7 @@
     
     p.mb-5 El vínculo emocional humano–animal es la relación afectiva que se construye entre una persona y un animal a través de la convivencia diaria, el cuidado constante y las interacciones positivas. Se forma de manera progresiva y depende de la calidad del manejo, la coherencia en las rutinas y la respuesta del tutor frente a las necesidades del animal. Las características del vínculo humano–animal son:
 
-    SlyderF(columnas="col-12 col-md-6 col-lg-4").mb-5
+    SlyderF(columnas="col-12 col-lg-4").mb-5
       .tarjeta.bg-color-8.p-4
         img.mb-5(src='@/assets/curso/tema2/5.png' alt='AvatarTop')
         h2.text-center Relación de confianza
@@ -181,7 +181,7 @@
       .p-4.p-md-5
         p.mb-5 La relación animal–animal se refiere a las interacciones sociales que se establecen entre animales de la misma especie o de especies diferentes que comparten un mismo entorno. Estas relaciones tienen especial relevancia en especies sociales, en las cuales el contacto con otros animales forma parte de su comportamiento natural y es esencial para su bienestar integral. Las características de la relación animal–animal son: 
 
-        SlyderF(columnas="col-12 col-md-6 col-lg-4").mb-5
+        SlyderF(columnas="col-12 col-lg-4").mb-5
           .tarjeta.bg-color-8.p-4
             img.mb-5(src='@/assets/curso/tema2/12.png' alt='AvatarTop')
             h2.text-center Estructuración social
@@ -214,7 +214,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema2/17.png', alt='')
                 .col-lg
@@ -237,16 +237,16 @@
 
     .row.justify-content-center
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Conflictos jerárquicos o territoriales.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Agresiones físicas.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Estrés crónico.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Estrés crónico.
     
     p.mb-5 Por ello, el tutor debe asumir un rol activo en la supervisión, regulación y facilitación de interacciones seguras, compatibles y progresivas entre los animales que conviven en un mismo entorno.

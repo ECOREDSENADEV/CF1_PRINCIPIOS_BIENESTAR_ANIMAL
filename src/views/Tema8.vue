@@ -152,7 +152,7 @@
               h4.text-center Etapa adulta
               p.text-center Requiere refuerzo continuo de comportamientos adecuados y adaptación a cambios fisiológicos o ambientales.
 
-        p.mb-5 conductas 
+        p.mb-5 En mascotas no convencionales, la educación se basa en la habituación progresiva al entorno, evitando el contacto excesivo y respetando las conductas naturales de cada especie. 
 
         separador
         

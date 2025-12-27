@@ -21,7 +21,7 @@
         
           
         .row.align-items-center
-          .col-lg-auto.order-lg-2
+          .col-lg-auto.mb-3.mb-lg-0.order-lg-2
             img(src="@/assets/curso/intro/2.svg", style="max-width: 90px").mx-auto
           .col-lg.order-lg-1
             .bg-color-1.p-4

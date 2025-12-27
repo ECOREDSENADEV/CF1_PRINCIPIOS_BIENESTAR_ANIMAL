@@ -30,7 +30,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-down")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema7/3.png', alt='')
                 .col-lg
@@ -73,18 +73,18 @@
     
     p.mb-5 La etología básica es la disciplina que estudia el comportamiento animal en relación con su entorno natural, su fisiología, su genética y su interacción social. Comprender la etología permite identificar conductas normales, prevenir alteraciones del comportamiento y asegurar un manejo ético y respetuoso. El desconocimiento de los principios etológicos conduce con frecuencia a prácticas inadecuadas como:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Castigar conductas normales.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Confinar animales activos.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Forzar interacciones sociales.
       .col-lg-2.mb-3.mb-lg-0.d-flex
-        .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+        .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Manipular especies con baja tolerancia al contacto humano.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")

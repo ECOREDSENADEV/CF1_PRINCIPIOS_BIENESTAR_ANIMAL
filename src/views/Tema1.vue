@@ -58,7 +58,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema1/7.png', alt='')
                 .col-lg
@@ -419,7 +419,7 @@
       .col-lg-10
         .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema1/52.png', alt='')
             .col-lg
@@ -586,19 +586,19 @@
 
         .row.justify-content-center
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Agresividad
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Ansiedad
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Autolesiones
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Conductas destructivas
           .col-lg-2.mb-3.mb-lg-0.d-flex
-            .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
+            .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Enfermedades relacionadas con el estrés
 
         p.mb-5 Por el contrario, un manejo adecuado, basado en el conocimiento del comportamiento natural de cada especie, favorece:
@@ -607,7 +607,7 @@
           .col-lg-8
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema1/59.png', alt='')
                 .col-lg
@@ -640,7 +640,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema1/60.png', alt='')
                 .col-lg
@@ -695,7 +695,7 @@
           .col-lg-10
             .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema1/61.png', alt='')
                 .col-lg
