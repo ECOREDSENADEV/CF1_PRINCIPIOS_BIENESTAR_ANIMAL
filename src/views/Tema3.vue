@@ -20,19 +20,19 @@
         p.mb-5 En el contexto de las mascotas, tanto convencionales como no convencionales, la aplicación de las Cinco Libertades exige un manejo diferenciado por especie, evitando enfoques generalizados que ignoren las particularidades biológicas, fisiológicas y etológicas de cada animal. Cada libertad se relaciona con acciones cotidianas del tutor: la alimentación, la hidratación, el alojamiento, el manejo, la atención veterinaria y la interacción humano–animal. Las cinco libertades son utilizadas como base para:
 
         .row.justify-content-center
-          .col-lg-2.mb-3.mb-lg-0
+          .col-lg-2.mb-3.mb-lg-0.d-flex
             .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Legislación de protección y bienestar animal.
-          .col-lg-2.mb-3.mb-lg-0
+          .col-lg-2.mb-3.mb-lg-0.d-flex
             .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Programas de tenencia responsable.
-          .col-lg-2.mb-3.mb-lg-0
+          .col-lg-2.mb-3.mb-lg-0.d-flex
             .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Evaluaciones de bienestar y listas de chequeo.
-          .col-lg-2.mb-3.mb-lg-0
+          .col-lg-2.mb-3.mb-lg-0.d-flex
             .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Protocolos de manejo ético y humanitario.
-          .col-lg-2.mb-3.mb-lg-0
+          .col-lg-2.mb-3.mb-lg-0.d-flex
             .bg-color-1.mb-5.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Educación y sensibilización ciudadana.
 
