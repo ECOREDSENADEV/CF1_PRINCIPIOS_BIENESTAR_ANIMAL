@@ -217,7 +217,7 @@
           .col-md.tarjeta.color-primario.bg-color-7.p-5
             figure.mb-5
               img(src='@/assets/curso/tema7/10.png', alt='Texto descriptivo 2')
-            h2.text-center Mascotas no convencionales
+            h2 Mascotas no convencionales
             p Deben contar con objetos para roer, oportunidades de forrajeo controlado, refugios, túneles, elementos naturales seguros y cambios ambientales graduales. Todo enriquecimiento debe ser supervisado, específico para cada especie y compatible con sus comportamientos naturales.
 
 
