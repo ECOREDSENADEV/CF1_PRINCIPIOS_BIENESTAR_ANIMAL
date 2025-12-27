@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.208" height="84.207" viewBox="0 0 84.208 84.207">
+  <g id="Grupo_1189913" data-name="Grupo 1189913" transform="translate(-550 -13818)">
+    <g id="Grupo_1189905" data-name="Grupo 1189905" transform="translate(-218 2617)">
+      <g id="Grupo_1189577" data-name="Grupo 1189577" transform="translate(-104.726 10922.223)">
+        <g id="Grupo_1188789" data-name="Grupo 1188789" transform="translate(583.726 -5835.222)">
+          <rect id="Rectángulo_400898" data-name="Rectángulo 400898" width="75.49" height="75.489" rx="37.744" transform="translate(293.36 6118.358)" fill="#ffd907"/>
+          <rect id="Rectángulo_400907" data-name="Rectángulo 400907" width="75.49" height="75.489" rx="37.744" transform="translate(293.36 6118.358)" fill="none"/>
+          <g id="Grupo_1098742" data-name="Grupo 1098742" transform="translate(289 6114)">
+            <g id="Rectángulo_400898-2" data-name="Rectángulo 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="1" opacity="0.859">
+              <rect width="84.208" height="84.207" rx="42.104" stroke="none"/>
+              <rect x="0.5" y="0.5" width="83.208" height="83.207" rx="41.604" fill="none"/>
+            </g>
+            <g id="Rectángulo_400907-2" data-name="Rectángulo 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="1">
+              <rect width="84.208" height="84.207" rx="42.104" stroke="none"/>
+              <rect x="0.5" y="0.5" width="83.208" height="83.207" rx="41.604" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="_037---No-Medication-Pre-Donation" data-name="037---No-Medication-Pre-Donation" transform="translate(562 13830)">
+      <g id="Layer_2" transform="translate(16 9)">
+        <path id="Shape" d="M26,35v6a2.006,2.006,0,0,1-2,2H4a2.006,2.006,0,0,1-2-2V35Z" fill="#ff8900"/>
+        <path id="Rectangle-path" d="M2,15H26v6H2Z" fill="#ff8900"/>
+        <path id="Rectangle-path-2" data-name="Rectangle-path" d="M23,15h3v6H23Z" fill="#fef09b"/>
+        <path id="Shape-2" data-name="Shape" d="M23,41a2.006,2.006,0,0,1-2,2h3a2.006,2.006,0,0,0,2-2V35H23Z" fill="#fef09b"/>
+        <rect id="Rectangle-path-3" data-name="Rectangle-path" width="28" height="10" rx="1" transform="translate(0 5)" fill="#607d8b"/>
+        <path id="Shape-3" data-name="Shape" d="M27,5H24a1,1,0,0,1,1,1v8a1,1,0,0,1-1,1h3a1,1,0,0,0,1-1V6A1,1,0,0,0,27,5Z" fill="#37474f"/>
+        <path id="Shape-4" data-name="Shape" d="M22,2V5H6V2A2.006,2.006,0,0,1,8,0H20A2.006,2.006,0,0,1,22,2Z" fill="#607d8b"/>
+        <path id="Shape-5" data-name="Shape" d="M20,0H17a2.006,2.006,0,0,1,2,2V5h3V2A2.006,2.006,0,0,0,20,0Z" fill="#37474f"/>
+        <path id="Rectangle-path-4" data-name="Rectangle-path" d="M2,21H26V35H2Z" fill="#f5f5f5"/>
+        <path id="Rectangle-path-5" data-name="Rectangle-path" d="M23,21h3V35H23Z" fill="#cfd8dc"/>
+      </g>
+      <g id="Layer_3">
+        <path id="Shape-6" data-name="Shape" d="M30,0A30,30,0,1,0,60,30,30,30,0,0,0,30,0ZM58,30a27.889,27.889,0,0,1-7.52,19.066L43,41.586V25a2,2,0,0,0,2-2V15a2,2,0,0,0-2-2H39V11a3,3,0,0,0-3-3H24a3,3,0,0,0-3,3v2H17a2,2,0,0,0-1.674.912L10.934,9.52A27.98,27.98,0,0,1,58,30ZM37,13H23V11a1,1,0,0,1,1-1H36a1,1,0,0,1,1,1Zm6,2v8H41V18a1,1,0,0,0-2,0v5H37V18a1,1,0,0,0-2,0v5H33V18a1,1,0,0,0-2,0v5H29V18a1,1,0,0,0-2,0v5H25V18a1,1,0,0,0-2,0v3.586l-6-6V15ZM19,31H29.586l3,3H22a1,1,0,1,0,0,2H34.586L41,42.414V43H19Zm18.414,5H38a1,1,0,0,0,0-2H35.414l-3-3H41v8.586ZM41,29H30.414l-4-4H41ZM21.586,23H17V18.414Zm2,2,4,4H19V25ZM19,45H41v5a1,1,0,0,1-1,1H20a1,1,0,0,1-1-1ZM2,30A27.889,27.889,0,0,1,9.52,10.934L15,16.414V23a2,2,0,0,0,2,2V50a3,3,0,0,0,3,3H40a3,3,0,0,0,3-3V44.414l6.066,6.066A27.98,27.98,0,0,1,2,30Z"/>
+        <path id="Shape-7" data-name="Shape" d="M34,38H26a1,1,0,0,0,0,2h8a1,1,0,0,0,0-2Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
