@@ -67,6 +67,8 @@ figcaption
     background-color: #FFF8CD !important
   &-8
     background-color: #E8DED5 !important
+  &-9
+    background-color: #F3EEE9
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -97,7 +99,7 @@ figcaption
 .bg-fondo
   &-1
     background-image: url("../assets/curso/bg1.svg") !important
-    background-position: top
+    background-position: bootom
   &-2
     // background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
@@ -236,3 +238,12 @@ $custom-card-img-height: 322px
 
       @media (min-width: 769px)
         width: 80%
+
+///////////////TABLAS/////////////////// 
+.tabl
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto
